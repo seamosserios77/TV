@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="
-#EXTINF:-1, tvg-logo="./La1.png" tvg-id="La1", La1
+#EXTINF:-1, tvg-logo="https://github.com/seamosserios77/TV/blob/af52bf62db54b6a4e30eabac08964549e175dc5d/La1.png" tvg-id="La1", La1
 acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1, tvg-logo="" tvg-id="La1 UHD", La1 UHD
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
