@@ -1,8 +1,10 @@
-#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guia.xml, https://raw.githubusercontent.com/acidjesuz/EPG/master/guide.xml"
+#EXTM3U url-tvg="
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" tvg-id="La1", La1
 acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" tvg-id="La1 UHD", La1 UHD
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
+#EXTINF:-1, tvg-logo="" tvg-id="La2", La2
+acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/adfc38adaae35d271a557.jpg" tvg-id="LaLiga Tv Bar 1080", LaLiga Tv Bar 1080
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M. LaLiga 1080 MultiAudio", M. LaLiga 1080 MultiAudio
@@ -135,11 +137,11 @@ acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" tvg-id="DAZN 4 1080", DAZN 4 1080
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" tvg-id="DAZN F1 1080 (Fórmula 1)", DAZN F1 1080 (Fórmula 1)
+#EXTINF:-1, tvg-logo="" tvg-id="DAZN F1 1080 (Fórmula 1)", DAZN F1 1080 (Fórmula 1)
 acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" tvg-id="DAZN F1 1080 (Fórmula 1)", DAZN F1 1080 (Fórmula 1)
+#EXTINF:-1, tvg-logo="" tvg-id="DAZN F1 1080 (Fórmula 1)", DAZN F1 1080 (Fórmula 1)
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" tvg-id="DAZN F1 720 (Fórmula 1)", DAZN F1 720 (Fórmula 1)
+#EXTINF:-1, tvg-logo="" tvg-id="DAZN F1 720 (Fórmula 1)", DAZN F1 720 (Fórmula 1)
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1, tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" tvg-id="EuroSport 1 1080", EuroSport 1 1080
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
