@@ -137,11 +137,11 @@ acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" tvg-id="DAZN 4 1080", DAZN 4 1080
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1, tvg-logo="" tvg-id="DAZN F1 1080 (Fórmula 1)", DAZN F1 1080 (Fórmula 1)
+#EXTINF:-1, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" tvg-id="DAZN F1 1080 (FÃ³rmula 1)", DAZN F1 1080 (FÃ³rmula 1)
 acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1, tvg-logo="" tvg-id="DAZN F1 1080 (Fórmula 1)", DAZN F1 1080 (Fórmula 1)
+#EXTINF:-1, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" tvg-id="DAZN F1 1080 (FÃ³rmula 1)", DAZN F1 1080 (FÃ³rmula 1)
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1, tvg-logo="" tvg-id="DAZN F1 720 (Fórmula 1)", DAZN F1 720 (Fórmula 1)
+#EXTINF:-1, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" tvg-id="DAZN F1 720 (FÃ³rmula 1)", DAZN F1 720 (FÃ³rmula 1)
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1, tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" tvg-id="EuroSport 1 1080", EuroSport 1 1080
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
@@ -165,9 +165,9 @@ acestream://ce235921dac95e1da2dd5e54673c2fecb9e806de
 acestream://396d82ca6f5445abcd32e6b609d67e332ee12ace
 #EXTINF:-1, tvg-logo="https://img2.sport-tv-guide.live/images/stations/a452.png" tvg-id="Sport Tv 3 1080", Sport Tv 3 1080
 acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
-#EXTINF:-1, tvg-logo="https://i.imgur.com/XcjYBfj.png" tvg-id="beIN SPORTS ñ", beIN SPORTS ñ
+#EXTINF:-1, tvg-logo="https://i.imgur.com/XcjYBfj.png" tvg-id="beIN SPORTS Ã±", beIN SPORTS Ã±
 acestream://41af6926a6010b68ba2540975761436bb077748f
-#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" tvg-id="Barça 720", Barça 720
+#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" tvg-id="BarÃ§a 720", BarÃ§a 720
 acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/1c26a0d324322f91a369e.jpg" tvg-id="ESPN COLOMBIA", ESPN COLOMBIA
 acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
@@ -185,5 +185,5 @@ acestream://cea17e9054b0d23c91218d37045383657f65b8f3
 acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
 #EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6gKALgnJ-yAuP-WEwXAioFZ98lGiaiOvaAh4JN4q8umxsMxiylU-meSp8jCuVfpcevcU&usqp=CAU" tvg-id="SETANTA SPORTS 1080", SETANTA SPORTS 1080
 acestream://72066549fbfd3f755853fe9467586b7debf01f60
-#EXTINF:-1, tvg-logo="" tvg-id="aquí", aquí
+#EXTINF:-1, tvg-logo="" tvg-id="aquÃ­", aquÃ­
 acestream://8819c851e10adc18ad914805ec4a13ddfb67063c
