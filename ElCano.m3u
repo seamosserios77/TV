@@ -137,11 +137,11 @@ acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" tvg-id="DAZN 4 1080", DAZN 4 1080
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
-#EXTINF:-1, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" tvg-id="DAZN F1 1080 (FÃ³rmula 1)", DAZN F1 1080 (FÃ³rmula 1)
+#EXTINF:-1, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" tvg-id="DAZN F1 1080 (FÃ³rmula 1)", DAZN F1 1080 (Fórmula 1)
 acestream://5789ca155323664edd293b848606688edf803f4d
-#EXTINF:-1, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" tvg-id="DAZN F1 1080 (FÃ³rmula 1)", DAZN F1 1080 (FÃ³rmula 1)
+#EXTINF:-1, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" tvg-id="DAZN F1 1080 (FÃ³rmula 1)", DAZN F1 1080 (Fórmula 1)
 acestream://9dad717d99b29a05672166258a77c25b57713dd5
-#EXTINF:-1, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" tvg-id="DAZN F1 720 (FÃ³rmula 1)", DAZN F1 720 (FÃ³rmula 1)
+#EXTINF:-1, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" tvg-id="DAZN F1 720 (FÃ³rmula 1)", DAZN F1 720 (Fórmula 1)
 acestream://e1fcad9de0c782c157fde6377805c58297ab65c2
 #EXTINF:-1, tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" tvg-id="EuroSport 1 1080", EuroSport 1 1080
 acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
@@ -171,7 +171,7 @@ acestream://41af6926a6010b68ba2540975761436bb077748f
 acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/1c26a0d324322f91a369e.jpg" tvg-id="ESPN COLOMBIA", ESPN COLOMBIA
 acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-#EXTINF:-1, tvg-logo="https://telegra.ph/file/08927c1764c7fe25def94.jpg" tvg-id="ESPN EXTRA COLOMBIA ", ESPN EXTRA COLOMBIA 
+#EXTINF:-1, tvg-logo="https://telegra.ph/file/08927c1764c7fe25def94.jpg" tvg-id="ESPN EXTRA COLOMBIA ", ESPN EXTRA COLOMBIA
 acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/e1e320f40b02ae8d04797.jpg" tvg-id="ESPN 2 COLOMBIA", ESPN 2 COLOMBIA
 acestream://e40b29774fdfd953751a71f5695f647726623b9d
