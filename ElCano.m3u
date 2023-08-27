@@ -14,9 +14,9 @@ acestream://1969c27658d4c8333ab2c0670802546121a774a5
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M. LaLiga 720", M. LaLiga 720
 acestream://f031f5728b32f6089dda28edebe990cf198108d8
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/5c77da09724e53af96832.jpg" tvg-id="M. LaLiga 2 1080", M. LaLiga 2 1080
-acestream://37d42d2b5d2278e6bb5810329a5f220867b3cf0c
+acestream://26029f72a4ca831d09deefe89534818db1d105bc
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/5c77da09724e53af96832.jpg" tvg-id="M. LaLiga 2 720", M. LaLiga 2 720
-acestream://91cf24543ac5a3dcd4a3557ce52de3f50ee6cb18
+acestream://80126b240f3e4e004754fd8f8103e857ab2556a0
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/968c9d7eb40340bae2eab.jpg" tvg-id="M. LaLiga 3 1080", M. LaLiga 3 1080
 acestream://4c4844564313e39a888f593511f299f5ba3cf929
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/9706db24e007948767d6e.jpg" tvg-id="M. LaLiga 4 1080", M. LaLiga 4 1080
@@ -94,13 +94,13 @@ acestream://045718bad2ddb4f03b1a420754a97a23ad8b493b
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" tvg-id="M.L. Campeones 1080", M.L. Campeones 1080
 acestream://539fcb64c4e3f1fd1d06dd8a80e4e00116d1c01b
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-moviestar-liga-de-campeones-1459.png" tvg-id="M.L. Campeones 720", M.L. Campeones 720
-acestream://90beb42e9e276854348bc91a9ff3c3e46c617495
+acestream://e2e2aca792aae5da19995ac516b1d620531bd49c
 #EXTINF:-1, tvg-logo="" tvg-id="M.L. Campeones 2 1080", M.L. Campeones 2 1080
 acestream://fc2fe31b0bce25e2dc7ab4d262bf645e2be5a393
 #EXTINF:-1, tvg-logo="" tvg-id="M.L. Campeones 2 720", M.L. Campeones 2 720
 acestream://6753492c1908274c268a1b28e2a054a0ff8f86f9
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" tvg-id="M.L. Campeones 3 1080", M.L. Campeones 3 1080
-acestream://ecf4ec41200785812c140e3d1050b412f1519fa7
+acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" tvg-id="M.L. Campeones 3 720", M.L. Campeones 3 720
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-4-1549.png" tvg-id="M.L. Campeones 4 SD", M.L. Campeones 4 SD
@@ -123,7 +123,7 @@ acestream://57e284a3c13100baeff7a88dc50949585c9f1277
 acestream://33369549c635dabdb78b95c478c21fcc9e4ee854
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/13e3b23de6970d4d85bc5.png" tvg-id="M. Golf 1080", M. Golf 1080
 acestream://4f945b0ba4206fa2676b61e9eaa465ac3dcc8122
-#EXTINF:-1, tvg-logo="https://telegra.ph/file/13e3b23de6970d4d85bc5.png" tvg-id="Golf mex 720", Golf mex 720
+#EXTINF:-1, tvg-logo="" tvg-id="M. Golf2 1080", M. Golf2 1080
 acestream://9a4f3ae6563668b7709dac509dedc709441b3fd9
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" tvg-id="DAZN 1 1080", DAZN 1 1080
 acestream://8ca07071b39185431f8e940ec98d1add9e561639
@@ -169,14 +169,14 @@ acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 acestream://41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" tvg-id="BarÃ§a 720", BarÃ§a 720
 acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-#EXTINF:-1, tvg-logo="https://telegra.ph/file/1c26a0d324322f91a369e.jpg" tvg-id="ESPN COLOMBIA", ESPN COLOMBIA
-acestream://2492f8aa7cd7c4800e7b22c4ecba05e34c18be00
-#EXTINF:-1, tvg-logo="https://telegra.ph/file/08927c1764c7fe25def94.jpg" tvg-id="ESPN EXTRA COLOMBIA ", ESPN EXTRA COLOMBIA
-acestream://9c3feb380cd9bcf9dcb7a9454ca8eb7962201612
-#EXTINF:-1, tvg-logo="https://telegra.ph/file/e1e320f40b02ae8d04797.jpg" tvg-id="ESPN 2 COLOMBIA", ESPN 2 COLOMBIA
-acestream://e40b29774fdfd953751a71f5695f647726623b9d
-#EXTINF:-1, tvg-logo="https://telegra.ph/file/2ec81705d153bf37a667e.jpg" tvg-id="ESPN 3 COLOMBIA", ESPN 3 COLOMBIA
-acestream://b97f5975dbd067655432512d4693b417bc85a714
+#EXTINF:-1, tvg-logo="" tvg-id="Gol Mundial 1", Gol Mundial 1
+acestream://78384a676407784df944243eb2f75d937fbcc253
+#EXTINF:-1, tvg-logo="" tvg-id="Gol Mundial 2", Gol Mundial 2
+acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
+#EXTINF:-1, tvg-logo="" tvg-id="Gol Mundial 3", Gol Mundial 3
+acestream://52c8ff01836c294caad8b8c029b53360aa16a4cd
+#EXTINF:-1, tvg-logo="" tvg-id="Gol Mundial 4", Gol Mundial 4
+acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga 1080", DAZN LaLiga 1080
 acestream://5611b4c003cc5d284346fba2e05ea0b9d3b5eb59
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga 720", DAZN LaLiga 720
