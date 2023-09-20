@@ -5,7 +5,9 @@ acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1, tvg-logo="" tvg-id="La2", La2
 acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
-#EXTINF:-1, tvg-logo="https://telegra.ph/file/adfc38adaae35d271a557.jpg" tvg-id="LaLiga Tv Bar 1080", LaLiga Tv Bar 1080
+#EXTINF:-1, tvg-logo="" tvg-id="M. LaLiga 1440P", M. LaLiga 1440P
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
+#EXTINF:-1, tvg-logo="" tvg-id="M. LaLiga 1080P", M. LaLiga 1080P
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M. LaLiga 1080 MultiAudio", M. LaLiga 1080 MultiAudio
 acestream://7d8c87e057be98f00f22e23b23fbf08999e4b02f
@@ -137,6 +139,8 @@ acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" tvg-id="DAZN 4 1080", DAZN 4 1080
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1, tvg-logo="" tvg-id="DAZN F1 UHD (FÃ³rmula 1)", DAZN F1 UHD (FÃ³rmula 1)
+acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
 #EXTINF:-1, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" tvg-id="DAZN F1 1080 (FÃ³rmula 1)", DAZN F1 1080 (Fórmula 1)
 acestream://5789ca155323664edd293b848606688edf803f4d
 #EXTINF:-1, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" tvg-id="DAZN F1 1080 (FÃ³rmula 1)", DAZN F1 1080 (Fórmula 1)
@@ -169,23 +173,13 @@ acestream://f8cb9d9e3077eb3ae417b2d95a69c5f590760eb9
 acestream://41af6926a6010b68ba2540975761436bb077748f
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-barca-tv-1456.png" tvg-id="BarÃ§a 720", BarÃ§a 720
 acestream://e3362507e7c732b9461bd7bdc74bd054c49b3ba7
-#EXTINF:-1, tvg-logo="" tvg-id="Gol Mundial 1", Gol Mundial 1
-acestream://78384a676407784df944243eb2f75d937fbcc253
-#EXTINF:-1, tvg-logo="" tvg-id="Gol Mundial 2", Gol Mundial 2
+#EXTINF:-1, tvg-logo="" tvg-id="Dazn liga F 1", Dazn liga F 1
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1, tvg-logo="" tvg-id="Dazn liga f 2", Dazn liga f 2
 acestream://4af5952b95d3c2e99fcdc0de2f528d3fcd73e06b
-#EXTINF:-1, tvg-logo="" tvg-id="Gol Mundial 3", Gol Mundial 3
-acestream://52c8ff01836c294caad8b8c029b53360aa16a4cd
-#EXTINF:-1, tvg-logo="" tvg-id="Gol Mundial 3", Gol Mundial 3
-acestream://d6d5775a2965b15ee405278b6a2e5a4374a80e25
-#EXTINF:-1, tvg-logo="" tvg-id="Gol Mundial 4", Gol Mundial 4
-acestream://5a8d60f4c8e558f8ae5acad7c75f455928ce0c2e
-#EXTINF:-1, tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga 1080", DAZN LaLiga 1080
-acestream://5611b4c003cc5d284346fba2e05ea0b9d3b5eb59
-#EXTINF:-1, tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga 720", DAZN LaLiga 720
-acestream://cea17e9054b0d23c91218d37045383657f65b8f3
-#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/stations/a371.png" tvg-id="#0 de Movistar 1080", #0 de Movistar 1080
-acestream://864fc1be34bdedc4bc2c7bb92098c61df8e9c7c2
-#EXTINF:-1, tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR6gKALgnJ-yAuP-WEwXAioFZ98lGiaiOvaAh4JN4q8umxsMxiylU-meSp8jCuVfpcevcU&usqp=CAU" tvg-id="SETANTA SPORTS 1080", SETANTA SPORTS 1080
-acestream://72066549fbfd3f755853fe9467586b7debf01f60
+#EXTINF:-1, tvg-logo="" tvg-id="Dazn liga f 3", Dazn liga f 3
+acestream://162942adc047d0f78eac056effbe5bbec54a5e51
+#EXTINF:-1, tvg-logo="" tvg-id="Dazn liga f 4", Dazn liga f 4
+acestream://e454681a152a86da504e63694f17f90d0586867d
 #EXTINF:-1, tvg-logo="" tvg-id="aquÃ­", aquÃ­
 acestream://8819c851e10adc18ad914805ec4a13ddfb67063c
