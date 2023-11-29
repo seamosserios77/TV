@@ -27,6 +27,8 @@ acestream://aa8f826da70e27a26b29c7b32402f17e8a67a8b0
 acestream://535394f62a810bc5aeb25be75ea5ff7d03e070b2
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/6726d0894872da50d69d8.jpg" tvg-id="M. LaLiga 6 1080", M. LaLiga 6 1080
 acestream://c896d37778f9e43549a788fc22206a655895b51b
+#EXTINF:-1, tvg-logo="" tvg-id="La Liga BAR 1080", La Liga BAR 1080
+acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga 1080 MultiAudio", DAZN LaLiga 1080 MultiAudio
 acestream://1960a9be8ae9e8c755330218eac4c5805466290a
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/ce066c11ff84d8e0a45c8.jpg" tvg-id="DAZN LaLiga 1080 MultiAudio", DAZN LaLiga 1080 MultiAudio
@@ -74,9 +76,7 @@ acestream://67654e63b5065cdaa6c8e8d41bb5428b42b32830
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" tvg-id="M. Deportes 1080", M. Deportes 1080
 acestream://d00223931b1854163e24c5c22475015d7d45c112
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" tvg-id="M. Deportes 720", M. Deportes 720
-acestream://e5fa927d9a017f4523fdb62774a0aec457985bfa
-#EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-364.png" tvg-id="M. Deportes 1 1080", M. Deportes 1 1080
-acestream://
+acestream://77d83a79afcf6c865289cd8cdb42223cd4b6501c
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-2-365.png" tvg-id="M. Deportes 2 1080", M. Deportes 2 1080
 acestream://e6f06d697f66a8fa606c4d61236c24b0d604d917
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-deportes-3-2502.png" tvg-id="M. Deportes 3 1080", M. Deportes 3 1080
@@ -106,9 +106,9 @@ acestream://ad372cba73aa0ece207a79532b3e30b731136bb2
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-movistar-liga-de-campeones-3-1548.png" tvg-id="M.L. Campeones 3 720", M.L. Campeones 3 720
 acestream://d59fe9978eed49f256b312a60671b5bce43d3f24
 #EXTINF:-1, tvg-logo="" tvg-id="M.L. Campeones 4 1080", M.L. Campeones 4 1080
-acestream://1b48d5881337c87b89e1edefff6688fe2271d222
+acestream://f2df4f96b23388b45e75d848a48a510cf8af560f
 #EXTINF:-1, tvg-logo="" tvg-id="M.L. Campeones 5 1080", M.L. Campeones 5 1080
-acestream://5c21c181156f200d5e628ef2c62cd06bf5f97eb7
+acestream://67b353ab1c4c2f6396b3ca5c4b45023bd9927561
 #EXTINF:-1, tvg-logo="" tvg-id="M.L. Campeones 6 1080", M.L. Campeones 6 1080
 acestream://a0978a100de9a307c12d395d9b2f4142db6ab52d
 #EXTINF:-1, tvg-logo="" tvg-id="M.L. Campeones 7 1080", M.L. Campeones 7 1080
@@ -143,6 +143,8 @@ acestream://7aa402bab9fff43258fbcf401881a39475f30aaf
 acestream://a8ffddef56f082d4bb5c0be0d3d2fdd8c16dbd97
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-4-es-2525.png" tvg-id="DAZN 4 1080", DAZN 4 1080
 acestream://2fcdf7a19c0858f686efdfabd3c8c2b92bf6bcfd
+#EXTINF:-1, tvg-logo="" tvg-id="DAZN F1 Multicamara (FÃ³rmula 1)", DAZN F1 Multicamara (FÃ³rmula 1)
+acestream://968627d24eec1c16b51d88e4a4a6c02211e3346e
 #EXTINF:-1, tvg-logo="" tvg-id="DAZN F1 UHD (FÃ³rmula 1)", DAZN F1 UHD (FÃ³rmula 1)
 acestream://6b94479c24898700089e6b87d28a3ccc72dc4041
 #EXTINF:-1, tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/012018/untitled-1_20.png?An9Fa1zRO4z6Dj__EVR4da6YOWsvtEw2&itok=6PiLMTa5" tvg-id="DAZN F1 1080 (FÃ³rmula 1)", DAZN F1 1080 (Fórmula 1)
