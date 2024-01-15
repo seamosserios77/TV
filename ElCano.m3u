@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" tvg-id="La1", La1
-acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
+acestream://fa79d8cea5689da7a69a5afd833690f4aa544cd3
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" tvg-id="La1 UHD", La1 UHD
 acestream://6636a5c1055b5913ddcd0e87a5523f7d935350af
 #EXTINF:-1, tvg-logo="" tvg-id="La2", La2
@@ -38,7 +38,7 @@ acestream://a3bca895c58d3fc7d5e4259d3d5e3cf0291d1914
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/47cefdd0ff29e5ea76dfa.jpg" tvg-id="DAZN LaLiga 2 1080 MultiAudio", DAZN LaLiga 2 1080 MultiAudio
 acestream://e33e666c393ef04ebe99a9b92135d2e0b48c4d10
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/47cefdd0ff29e5ea76dfa.jpg" tvg-id="DAZN LaLiga 2 720 MultiAudio", DAZN LaLiga 2 720 MultiAudio
-acestream://0950c37fe1ea817fc561c611ae943d58505f7a79
+acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/6ede7767f85ffeecc9901.jpg" tvg-id="DAZN LaLiga 3 1080 MultiAudio", DAZN LaLiga 3 1080 MultiAudio
 acestream://8c71f0e0a5476e10950fc827f9d2a507340aba74
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/42064e09047a580ce96ec.jpg" tvg-id="DAZN LaLiga 4 1080 MultiAudio", DAZN LaLiga 4 1080 MultiAudio
@@ -67,6 +67,16 @@ acestream://446e73a22582921393b020ed08b768ad8e14d754
 acestream://4d52fc1994fe927702aeb7bc8778e2f23b1260e2
 #EXTINF:-1, tvg-logo="" tvg-id="M.Plus 1080", M.Plus 1080
 acestream://5a236fbbe6e5bbfec03db548c244a7c858d675c0
+#EXTINF:-1, tvg-logo="" tvg-id="SuperCopa 1080", SuperCopa 1080
+acestream://8ba764f6a3bce6eae87ec71208fad1aa3a20528d
+#EXTINF:-1, tvg-logo="" tvg-id="SuperCopa 1080 plus", SuperCopa 1080 plus
+acestream://d6cdd724a97fcf851e7ef641c28d6beb8663496e
+#EXTINF:-1, tvg-logo="" tvg-id="SuperCopa 1080 MultiAudio", SuperCopa 1080 MultiAudio
+acestream://3a4c8ac955d451bf3c29b45256e74aa0ea82d281
+#EXTINF:-1, tvg-logo="" tvg-id="SuperCopa 1080", SuperCopa 1080
+acestream://7d70685696722c2b1b48a5ae1a7f92c445d9443d
+#EXTINF:-1, tvg-logo="" tvg-id="SuperCopa 720", SuperCopa 720
+acestream://dab7cab5d6d177df36c3b333ca363c2266d91a03
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" tvg-id="#Vamos 1080", #Vamos 1080
 acestream://859bb6295b8d0f224224d3063d9db7cdeca03122
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-vamos-1601.png" tvg-id="#Vamos 720", #Vamos 720
