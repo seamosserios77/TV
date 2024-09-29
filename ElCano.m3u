@@ -5,6 +5,34 @@ acestream://02b9307c5c97c86914cc5939d6bbeb5b4ec60b47
 acestream://61a38b6c3b6c3fdffcb2f61053f3437e569eb666
 #EXTINF:-1, tvg-logo="" tvg-id="La2", La2
 acestream://60106275d34f995e26bb2cc4a21a42f586c6c555
+#EXTINF:-1, tvg-logo="https://i.ibb.co/thh1tKH/TDP.jpg" tvg-id="tdp 1080", tdp 1080
+acestream://e2395d28ad19423212fd3aa0e81f387db3e8bb9f
+#EXTINF:-1, tvg-logo="https://i.ibb.co/DKTwL0t/Eurosport1-o.jpg" tvg-id="EuroSport 1 1080", EuroSport 1 1080
+acestream://5e4cd48c79f991fcbee2de8b9d30c4b16de3b952
+#EXTINF:-1, tvg-logo="https://i.ibb.co/4dFxnrC/Eurosport2-o.jpg" tvg-id="EuroSport 2 1080", EuroSport 2 1080
+acestream://c373da9e901d414b7384e671112e64d5a2310c29
+#EXTINF:-1, tvg-logo="" tvg-id="Euro 4k", Euro 4k
+acestream://63135c171f056d1d6028f9ffb1637ed704b88a20
+#EXTINF:-1, tvg-logo="" tvg-id="Euro1 1080P", Euro1 1080P
+acestream://f233f3a8e9ddfae2e43d919789073fc17d9bbd7c
+#EXTINF:-1, tvg-logo="" tvg-id="Euro2 1080", Euro2 1080
+acestream://3e0df5e0e93cc867022e320afef0aaecda9509fe
+#EXTINF:-1, tvg-logo="" tvg-id="Euro3 1080", Euro3 1080
+acestream://a62c010c71bfb76b18188f108c3cc4541c34f45e
+#EXTINF:-1, tvg-logo="" tvg-id="Euro4 1080", Euro4 1080
+acestream://76a482a4cb53fc28518187c6b814f136b3db3c95
+#EXTINF:-1, tvg-logo="" tvg-id="Euro5 1080", Euro5 1080
+acestream://914ce366baec9b0fb3523dd7ba762a44b597fc40
+#EXTINF:-1, tvg-logo="" tvg-id="Euro6 1080", Euro6 1080
+acestream://1bc614c5aa2a94117c13c7f0be2b8ea31b535f38
+#EXTINF:-1, tvg-logo="" tvg-id="Euro7 1080", Euro7 1080
+acestream://e899a4f1e20f7ce1b39cc529dc237fc29a21855f
+#EXTINF:-1, tvg-logo="" tvg-id="Euro8 1080", Euro8 1080
+acestream://721a78f2076faa584c9c09059ffb4e10159f4665
+#EXTINF:-1, tvg-logo="" tvg-id="Euro9 1080", Euro9 1080
+acestream://dd9c56ef2f09753c59d9c2e2d2af31aeea6451c0
+#EXTINF:-1, tvg-logo="" tvg-id="M. LaLiga UHD", M. LaLiga UHD
+acestream://dce1579e3a2e5bd29071fca8eae364f1eb3205cf
 #EXTINF:-1, tvg-logo="" tvg-id="M. LaLiga 1080P", M. LaLiga 1080P
 acestream://aa82e7d4f03061f2144a2f4be22f2e2210d42280
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/87a4c3d008b086629d093.jpg" tvg-id="M. LaLiga 1080 MultiAudio", M. LaLiga 1080 MultiAudio
@@ -146,7 +174,7 @@ acestream://60296c246e3596f334903fefd48cfaa724a5053b
 #EXTINF:-1, tvg-logo="" tvg-id="M.L. Campeones 17 SD", M.L. Campeones 17 SD
 acestream://60296c246e3596f334903fefd48cfaa724a5053b
 #EXTINF:-1, tvg-logo="https://telegra.ph/file/13e3b23de6970d4d85bc5.png" tvg-id="M. Golf 1080", M. Golf 1080
-acestream://858b3cf2842ebe394999275e5ebb0435f1af2ae4
+acestream://688cc3af0f517c598e07d35f1ce79f8bcba17d81
 #EXTINF:-1, tvg-logo="" tvg-id="M. Golf2 1080", M. Golf2 1080
 acestream://0742f7fabb74715b11c5a5dae24e93a4644697a5
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-dazn-1-es-2510.png" tvg-id="DAZN 1 1080", DAZN 1 1080
