@@ -1,6 +1,6 @@
 #EXTM3U url-tvg="
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" tvg-id="La1", La1
-b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
+acestream://b9a81ddb0cf98d9a5ae18ba2eef0ab094bd5d5b0
 #EXTINF:-1, tvg-logo="https://img.sport-tv-guide.live/images/tv-station-la-1-838.png" tvg-id="La1 UHD", La1 UHD
 4a714c436cb67d53cf197f9038239fddab2d8b20
 #EXTINF:-1, tvg-logo="" tvg-id="La2", La2
